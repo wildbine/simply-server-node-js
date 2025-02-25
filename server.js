@@ -12,7 +12,7 @@ const server = http.createServer((req, res) => {
         <title>Приветствие</title>
       </head>
       <body>
-        <h1>Привет :)</h1>
+        <h1>Привет >:( </h1>
         <p>Cервер на Node.js.</p>
       </body>
       </html>
